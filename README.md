@@ -4,8 +4,7 @@ Oi! prazer, sou o Wellison, aspirante a programador front-end jr 🌱.
 
 possuo graduação em Arquitetura e Urbanismo e atuei por mais de 8 anos no segmento 
 de engenharia de projetos eletromecânicos industriais para atender grandes clientes como *Autotrac Telecomunicações*, *Metalfrio Solutions*, *Colormaq*, 
-*Landirenzo* e *WEG*. Estou em transição de carreira e atualmente tenho estudado Javascript, HTML5 e CSS3) junto a Alura, onde recentemente concluí 
-a minha primeira formação em UX/UI Designer. 
+*Landirenzo* e *WEG*. Estou em transição de carreira e tenho atualmente estudado Javascript, HTML5 e CSS3) junto a Alura, onde recentemente concluí a minha primeira formação em UX/UI Designer.
 
 ### Meus próximos passos
   
@@ -17,24 +16,24 @@ além, de poder contribuir com a equipe.
 ### Um pouco mais sobre mim:
 
 Sou analítico, sei trabalhar sob pressão, gosto de resolver problemas e adoro desenvolver e prototipar produtos e soluções digitais. No meu tempo livre
-gosto de modelar e animar objetos 3D, editar vídeos,  e descobrir novos projetos *open-soure* (sou grande fã da filosofia *open-source* na verdade ⚡). 
+gosto de modelar e animar objetos 3D, editar vídeos,  e descobrir novos projetos *open-soure* (sou grande fã da filosofia *open-source*, na verdade rs :smile:⚡). 
 
 ______
 #### Minhas redes
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wellison-dias-327a28249/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]( www.linkedin.com/in/wellison-mdias)
 
 
 ______
 
 ### Minha Stack
 
-[<image src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">]()
-[<image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">]()
-[<image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">]()
-[<image src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">]()
-[<image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">]()
+[<image src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://github.com/wellison-md/)
+[<image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://github.com/wellison-md/)
+[<image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://github.com/wellison-md/)
+[<image src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">](https://github.com/wellison-md/)
+[<image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">](https://github.com/wellison-md/)
 
 
 
