@@ -19,12 +19,14 @@ além, de poder contribuir com a equipe.
 Sou analítico, sei trabalhar sob pressão, gosto de resolver problemas e adoro desenvolver e prototipar produtos e soluções digitais. No meu tempo livre
 gosto de modelar e animar objetos 3D, editar vídeos,  e descobrir novos projetos *open-soure* (sou grande fã da filosofia *open-source* na verdade ⚡). 
 
+______
 #### Minhas redes
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wellison-dias-327a28249/)
 
 
-
+______
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,5 +47,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 -->
