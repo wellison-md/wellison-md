@@ -11,7 +11,8 @@ Arquiteto em transição de carreira para área de tecnologia. Atuei por mais de
 Sou analítico, sei trabalhar sob pressão, gosto de resolver problemas e adoro desenvolver e prototipar produtos e soluções digitais. No meu tempo livre
 gosto de modelar e animar objetos 3D, editar vídeos,  e descobrir novos projetos *open-soure* 
 
-______
+<br>
+
 #### Minhas redes
 
 Vamos trocar uma idéia? Manda um alô no [linkedin](https://www.linkedin.com/in/wellison-mdias)
