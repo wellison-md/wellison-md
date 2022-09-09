@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Oi! prazer, sou o Wellison, aspirante a programador front-end jr 🌱. 
+Prazer, sou o Wellison, aspirante a programador front-end jr 🌱. 
 
 possuo graduação em Arquitetura e Urbanismo e atuei por mais de 8 anos no segmento 
 de engenharia de projetos eletromecânicos industriais para atender grandes clientes como *Autotrac Telecomunicações*, *Metalfrio Solutions*, *Colormaq*, 
@@ -16,11 +16,12 @@ além, de poder contribuir com a equipe.
 ### Um pouco mais sobre mim:
 
 Sou analítico, sei trabalhar sob pressão, gosto de resolver problemas e adoro desenvolver e prototipar produtos e soluções digitais. No meu tempo livre
-gosto de modelar e animar objetos 3D, editar vídeos,  e descobrir novos projetos *open-soure* (sou grande fã da filosofia *open-source*, na verdade rs :smile:⚡). 
+gosto de modelar e animar objetos 3D, editar vídeos,  e descobrir novos projetos *open-soure* 
 
 ______
 #### Minhas redes
 
+Vamos trocar uma idéia? Manda um alô! :point_down:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]( www.linkedin.com/in/wellison-mdias)
 
