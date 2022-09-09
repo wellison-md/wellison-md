@@ -2,15 +2,8 @@
 
 Prazer, sou o Wellison, aspirante a programador front-end jr 🌱. 
 
-possuo graduação em Arquitetura e Urbanismo e atuei por mais de 8 anos no segmento 
-de engenharia de projetos eletromecânicos industriais para atender grandes clientes como *Autotrac Telecomunicações*, *Metalfrio Solutions*, *Colormaq*, 
-*Landirenzo* e *WEG*. Estou em transição de carreira e tenho atualmente estudado Javascript, HTML5 e CSS3) junto a Alura, onde recentemente concluí a minha primeira formação em UX/UI Designer.
+Arquiteto em transição de carreira para área de tecnologia. Atuei por mais de 8 anos no segmento de engenharia de projetos eletromecânicos industriais atendendo grandes clientes como *Autotrac Telecomunicações*, *Metalfrio Solutions*, *Colormaq*, *Landirenzo* e *WEG*. Atualmente estudo Javascript, React e React-Native. Estou em busca da minha primeira oportunidade profissional na área de tecnologia e espero encontrar uma vaga na qual eu possa adquirir e aprofundar meus conhecimentos além, de poder contribuir com a equipe. 
 
-### Meus próximos passos
-  
-  Sigo estudando o máximo de tecnologias pertinentes para á área do Front-end, e em breve pretendo iniciar os estudos de frameworks e libs js 
-  React/React-Native e Angular. Além disso estou em busca da minha primeira oportunidade profissional na área de tecnologia e espero encontrar uma vaga na qual eu possa adquirir e aprofundar meus conhecimentos
-além, de poder contribuir com a equipe. 
 
  
 ### Um pouco mais sobre mim:
@@ -26,11 +19,11 @@ Vamos trocar uma idéia? Manda um alô no [linkedin](https://www.linkedin.com/in
 
 ______
 
-![](https://github.com/wellison-md/badges/blob/main/ux.png)
-![](https://github.com/wellison-md/badges/blob/main/ui.png)
-![](https://github.com/wellison-md/badges/blob/main/js.png)
-![](https://github.com/wellison-md/badges/blob/main/html5.png)
-![](https://github.com/wellison-md/badges/blob/main/css3.png)
+![image](https://github.com/wellison-md/badges/blob/main/ux.png)
+![image](https://github.com/wellison-md/badges/blob/main/ui.png)
+![image](https://github.com/wellison-md/badges/blob/main/js.png)
+![image](https://github.com/wellison-md/badges/blob/main/html5.png)
+![image](https://github.com/wellison-md/badges/blob/main/css3.png)
 
 
 
