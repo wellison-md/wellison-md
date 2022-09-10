@@ -15,7 +15,7 @@ gosto de modelar e animar objetos 3D, editar vídeos,  e descobrir novos projeto
 
 #### Minhas redes
 
-Vamos trocar uma idéia? Manda um alô no [linkedin](https://www.linkedin.com/in/wellison-mdias)
+Vamos trocar uma idéia? Manda um alô no [![image](https://github.com/wellison-md/badges/blob/main/linkedin2.png)](https://www.linkedin.com/in/wellison-mdias)
 
 
 ______
