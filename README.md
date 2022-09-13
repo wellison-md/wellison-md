@@ -26,6 +26,8 @@ ______
 ![image](https://github.com/wellison-md/badges/blob/main/js.png)
 ![image](https://github.com/wellison-md/badges/blob/main/html5.png)
 ![image](https://github.com/wellison-md/badges/blob/main/css3.png)
+![image](https://github.com/wellison-md/badges/blob/main/git.png)
+![image](https://github.com/wellison-md/badges/blob/main/github.png)
 
 
 
