@@ -2,13 +2,13 @@
 
 Prazer, sou o Wellison, programador front-end jr 🌱. 
 
-Arquiteto em transição de carreira para área de tecnologia. Atuei por mais de 8 anos no segmento de engenharia de projetos eletromecânicos industriais atendendo grandes clientes como *Autotrac Telecomunicações*, *Metalfrio Solutions*, *Colormaq*, *Landirenzo* e *WEG*. Atualmente estudo Javascript, React e React-Native. Estou em busca da minha primeira oportunidade profissional na área de tecnologia e espero encontrar uma vaga na qual eu possa adquirir e aprofundar meus conhecimentos além, de poder contribuir com a equipe. 
+Arquiteto em transição de carreira para área de tecnologia. Atualmente curso a formação *fullstack Developer* da Trybe e estou em busca da primeira oportunidade como desenvolvedor.
 <br>
 
 
 #### Vamos trocar uma idéia? 
 
-<a href="https://www.linkedin.com/in/wellison-mdias" style="background-color: #0a66c2; padding: 6px; border-radius: 4px; color: white; text-decoration:none">Linkedin</a>
+<a href="https://www.linkedin.com/in/wellison-mdias" style="text-decoration:none; background-color: #0a66c2; padding: 6px; border-radius: 4px; color: white;">Linkedin</a>
 <br>
 
 <span>
