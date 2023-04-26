@@ -2,7 +2,7 @@
 
 Prazer, sou o Wellison, programador front-end jr 🌱. 
 
-Arquiteto em transição de carreira para área de tecnologia. Atualmente curso a formação *fullstack Developer* da Trybe e estou em busca da primeira oportunidade como desenvolvedor.
+Arquiteto em transição de carreira para área de tecnologia. Atualmente curso a formação *fullstack Web-Developer* da Trybe e estou em busca da primeira oportunidade como desenvolvedor.
 <br>
 
 
