@@ -37,6 +37,10 @@ Enthusiastic and passionate about creating digital solutions. I have a strong ba
     <img alt="Javascript ES6" src="./assets/js.svg">
   </abbr>
 
+  <abbr style="text-decoration:none;" title="Typescript">
+    <img alt="Typescript" src="./assets/ts.svg">
+  </abbr>
+
   <abbr style="text-decoration:none;" title="HTML 5">
     <img alt="HTML5" src="./assets/html5.svg">
   </abbr>
