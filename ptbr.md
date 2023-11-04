@@ -66,21 +66,22 @@ p {
 
 </style>
 
+
+
 <header class="flex left">
-  <img class="link" src="./assets/iconus.svg" alt="language: EN-US" />
-  <a href="ptbr.md">
-    <img class="link unselected" src="./assets/iconbr.svg" alt="language: PT-BR"/>
-  </a>
+    <a href="./README.md">
+      <img class="link unselected" src="./assets/iconus.svg" alt="language: EN-US" />
+    </a>
+    <img class="link disable" src="./assets/iconbr.svg" alt="language: PT-BR" href="./ptbr.md"/>
 </header>
 
 
-<h1> Hi! <span class="waving-hand">👋</span></h1>
+<h1> Olá <span class="waving-hand">👋</span></h1>
 
-<h3>Nice to meet you, I'm Wellison, a web developer.</h3>
+<h3> Prazer, sou o Wellison, desenvolvedor web.</h3>
 <p class="subtitle"></p>
 
-<p>
-Enthusiastic and passionate about creating digital solutions. I have a strong background in web development and experience in a variety of projects, from front-end to back-end, covering technologies like JavaScript, HTML5, CSS3, React.js, Node.js, and Java with Spring Boot. I am committed to continually improving my skills and I am actively seeking new challenging opportunities to apply my knowledge and contribute to exciting projects. Let's discuss how I can make a difference on your team?</p>
+<p>Entusiasta e apaixonado por criar soluções digitais. Possuo uma sólida formação em desenvolvimento web e experiência em uma variedade de projetos, desde o front-end ao back-end, abrangendo tecnologias como JavaScript, HTML5, CSS3, React.js, Node.js e Java com Spring Boot. Estou comprometido em continuar aprimorando minhas habilidades e estou à procura de novas oportunidades desafiadoras para aplicar meu conhecimento e contribuir para projetos empolgantes. Vamos conversar sobre como posso fazer a diferença em sua equipe?</p>
 <br>
 
 

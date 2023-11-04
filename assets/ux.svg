@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36mm"
+   height="36mm"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="ux.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="8.106136"
+     inkscape:cy="23.888296"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1618"
+     inkscape:window-height="904"
+     inkscape:window-x="26"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.285715,-74.226189)">
+    <rect
+       style="fill:#8500d3;fill-opacity:1;stroke-width:0.499999"
+       id="rect739"
+       width="36"
+       height="36"
+       x="18.285715"
+       y="74.226189"
+       rx="4"
+       inkscape:export-filename="ux.png"
+       inkscape:export-xdpi="25.400002"
+       inkscape:export-ydpi="25.400002" />
+    <g
+       aria-label="UX"
+       id="text953"
+       style="font-weight:bold;font-size:14.9434px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+       transform="translate(-10.000001,4.9261935)">
+      <path
+         d="m 38.22375,82.107165 v 6.619926 q 0,1.180529 0.612679,1.778265 0.627623,0.597736 1.733435,0.597736 1.120755,0 1.733434,-0.597736 0.627623,-0.597736 0.627623,-1.778265 v -6.619926 h 1.703548 v 6.59004 q 0,1.270189 -0.552906,2.151849 -0.552906,0.881661 -1.479397,1.31502 -0.926491,0.433358 -2.047246,0.433358 -1.120755,0 -2.047246,-0.433358 -0.911547,-0.433359 -1.449509,-1.31502 -0.537963,-0.88166 -0.537963,-2.151849 v -6.59004 z"
+         style="fill:#ffffff;stroke-width:0.5"
+         id="path850" />
+      <path
+         d="m 51.613016,87.307468 3.227774,5.18536 h -1.912755 l -2.346114,-3.765737 -2.19668,3.765737 h -1.897812 l 3.227775,-5.18536 -3.242718,-5.200303 h 1.912755 l 2.361058,3.795624 2.211623,-3.795624 h 1.897812 z"
+         style="fill:#ffffff;stroke-width:0.5"
+         id="path852" />
+    </g>
+  </g>
+</svg>
