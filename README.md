@@ -1,4 +1,5 @@
 
+
 <style>
 
 abbr {
@@ -73,7 +74,6 @@ p {
   </a>
 </header>
 
-
 <h1> Hi! <span class="waving-hand">👋</span></h1>
 
 <h3>Nice to meet you, I'm Wellison, a web developer.</h3>
@@ -136,4 +136,5 @@ Enthusiastic and passionate about creating digital solutions. I have a strong ba
   <abbr title="Spring Boot">
     <img alt="" src="./assets/springboot.svg">
   </abbr>
+
 </span>
