@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36"
+   height="36"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg18171"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="html5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview18173"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.6557772"
+     inkscape:cx="5.6480642"
+     inkscape:cy="32.193966"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs18168" /><g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#ff6600;stroke-width:2.44713;stroke-miterlimit:0;fill-opacity:1"
+       id="rect18292"
+       width="36"
+       height="36"
+       x="-4.4408921e-15"
+       y="3.5527137e-15"
+       rx="8" /><path
+       id="rect26807"
+       style="fill:#cf391c;fill-opacity:1;stroke-width:2.44713;stroke-miterlimit:0"
+       d="M 8,0 C 3.568005,0 0,3.5680044 0,8 v 20 c 0,4.431996 3.568005,8 8,8 H 18 V 0 Z" /><path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.611109"
+       d="m 27.871029,7.1158727 -0.231574,3.5894743 -15.284183,0.115756 0.694746,4.168404 H 27.176309 L 26.018415,26.800006 17.913168,29 9.8079095,26.800005 9.4605435,20.66317 l 4.0526345,0.115745 0.231574,3.068405 4.110533,1.042112 4.573653,-1.21579 0.405265,-5.094726 L 9.4605435,18.81049 8.1289715,6.9999999 Z"
+       id="path4341" /></g></svg>
