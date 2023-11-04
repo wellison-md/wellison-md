@@ -4,7 +4,6 @@
     <img style="cursor: pointer; margin-left:6px; opacity:0.4;" src="./assets/iconbr.svg" alt="language: PT-BR"/>
   </a>
 </div>
-<hr>
 <br>
 <br>
 
