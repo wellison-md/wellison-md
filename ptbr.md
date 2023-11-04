@@ -1,82 +1,13 @@
-
-<style>
-
-abbr {
-  text-decoration: none;
-  margin-left: 6px;
-}
-.flex {
-  display: flex;
-  flex-direction: row;
-  word-wrap: wrap;
-}
-
-.left {
-  justify-content: end;
-}
-
-.link {
-  cursor: pointer;
-  margin-left: 8px;
-}
-
-.link:hover {
-  opacity: 1;
-}
-
-.subtitle {
-  font-style: italic;
-  font-size: 20px;
-  color: #777;
-  margin: 0;
-}
-
-.unselected {
-  opacity: 0.35;
-}
-
-p {
-  font-size: 18px;
-  max-width: 490px;
-  text-align: justify;
-}
-
-.container {
-  max-width: 580px;
-  flex-wrap: wrap;
-}
-
-.waving-hand {
-    display: inline-block;
-    animation: wave .6s 3, pause 30s infinite;
-    transform-origin: center;
-  }
-
-  @keyframes wave {
-    0% {
-      transform: rotate(0deg);
-    }
-    50% {
-      transform: rotate(-25deg);
-    }
-    100% {
-      transform: rotate(0deg);
-    }
-  }
-
-</style>
-
-
-
-<header class="flex left">
+<span>
     <a href="./README.md">
-      <img class="link unselected" src="./assets/iconus.svg" alt="language: EN-US" />
+      <img src="./assets/iconus.svg" alt="language: EN-US" />
     </a>
-    <img class="link disable" src="./assets/iconbr.svg" alt="language: PT-BR" href="./ptbr.md"/>
-</header>
+    <img src="./assets/iconbr.svg" alt="language: PT-BR" href="./ptbr.md"/>
+</span>
+<br>
+<br>
 
-
-<h1> Olá <span class="waving-hand">👋</span></h1>
+<h1> Olá <span class="waving-hand">👋 👦</span></h1>
 
 <h3> Prazer, sou o Wellison, desenvolvedor web.</h3>
 <p class="subtitle"></p>
