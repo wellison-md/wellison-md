@@ -37,6 +37,10 @@
     <img alt="Javascript ES6" src="./assets/js.svg">
   </abbr>
 
+  <abbr title="Typescript">
+    <img alt="Typescript" src="./assets/ts.svg">
+  </abbr>
+
   <abbr title="HTML 5">
     <img alt="HTML5" src="./assets/html5.svg">
   </abbr>
